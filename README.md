@@ -97,8 +97,8 @@ airport-rideshare-scheduler/
 ├── Drivers.csv                     # Input: driver data
 ├── Vehicles.csv                    # Input: vehicle data
 ├── assets/
-│   ├── Project3_Diagram.png       # Original UML, rendered for GitHub display
-│   └── Project3_Diagram.pdf       # Original UML diagram
+│   ├── UML_Diagram.png       # Original UML, rendered for GitHub display
+│   └── UML_Diagram.pdf       # Original UML diagram
 └── README.md
 ```
 
